@@ -1,0 +1,37 @@
+Subject,Day,Time,Tutor,Location
+BIOL 113 / 114,Monday,3 - 4:30,Elias,SSS / EOP Tutorial Center
+BIOL 113 / 114,Thursday,6:30 - 8,"Amanda Elias",SSS / EOP Tutorial Center
+CHEM 107,Sunday,6:30 - 8,"Shawn Gaylenis",SSS / EOP Tutorial Center
+CHEM 107,Wednesday,6:30 - 8,"Amanda Gaylenis",SSS / EOP Tutorial Center
+CHEM 107,Thursday,10:30 - Noon,Shawn,SSS / EOP Tutorial Center
+CHEM 111,Request an appointment,,,On Demand
+CHEM 231 / 332,Monday,1 - 2:30,Christopher,SSS / EOP Tutorial Center
+CHEM 231 / 332,Wednesday,5 - 6:30,Christopher,SSS / EOP Tutorial Center
+MATH 108,Request an appointment,,,On Demand
+MATH 130,Request an appointment,,,On Demand
+MATH 220,Request an appointment,,,On Demand
+MATH 223 / 224 / 225,Monday,5:30 - 7,Andrea,SSS / EOP Tutorial Center
+MATH 223 / 224 / 225,Thursday,3 - 4:30,Andrea,SSS / EOP Tutorial Center
+MATH 226 / 227,Monday,5:30 - 7,Andrea,SSS / EOP Tutorial Center
+MATH 226 / 227,Thursday,3 - 4:30,Andrea,SSS / EOP Tutorial Center
+MATH 323,Tuesday,2:30 - 4,Randy,SSS / EOP Tutorial Center
+MATH 323,Wednesday,12:30 - 2,Randy,SSS / EOP Tutorial Center
+PHYS 121 / 131 / 132,Tuesday,2:30 - 4,Randy,SSS / EOP Tutorial Center
+PHYS 121 / 131 / 132,Wednesday,12:30 - 2,Randy,SSS / EOP Tutorial Center
+PSYC 111 / 243 / 344,Monday,3 - 4:30,Elias,SSS / EOP Tutorial Center
+PSYC 111 / 243 / 344,Thursday,6:30 - 8,"Chloe Elias",SSS / EOP Tutorial Center
+GENERAL WRITING,Sunday,5 - 6:30,Zion,SSS / EOP Tutorial Center
+GENERAL WRITING,Monday,12 - 1:30,Jasper,SSS / EOP Tutorial Center
+GENERAL WRITING,Tuesday,4:30 - 6,Zion,SSS / EOP Tutorial Center
+GENERAL WRITING,Wednesday,5:30 - 7,Jasper,SSS / EOP Tutorial Center
+GENERAL WRITING,Thursday,6 - 7:30,Jasper,SSS / EOP Tutorial Center
+BIO Misc*,Request an appointment,,Shawn,On Demand
+HDEV Misc*,Request an appointment,,Jasper,On Demand
+Intro French,Request an appointment,,Randy,On Demand
+PHYS Misc*,Request an appointment,,Randy,On Demand
+PSYC Misc*,Request an appointment,,"Chloe Elias",On Demand
+Spanish,Request an appointment,,"Shawn Gaylenis",On Demand
+Watson - BME,Request an appointment,,Christopher,On Demand
+Watson - CS,Tuesday,Noon - 1,Kyle,SSS / EOP Tutorial Center
+Watson - CS,Wednesday,Noon - 1,Kyle,SSS / EOP Tutorial Center
+Watson - CS,Thursday,Noon - 1,Kyle,SSS / EOP Tutorial Center

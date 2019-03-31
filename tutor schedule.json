@@ -1,0 +1,254 @@
+[
+  {
+    "Subject": "BIOL 113 / 114",
+    "Day": "Monday",
+    "Time": "3 - 4:30",
+    "Tutor": "Elias",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "BIOL 113 / 114",
+    "Day": "Thursday",
+    "Time": "6:30 - 8",
+    "Tutor": "\"Amanda Elias\"",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "CHEM 107",
+    "Day": "Sunday",
+    "Time": "6:30 - 8",
+    "Tutor": "\"Shawn Gaylenis\"",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "CHEM 107",
+    "Day": "Wednesday",
+    "Time": "6:30 - 8",
+    "Tutor": "\"Amanda Gaylenis\"",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "CHEM 107",
+    "Day": "Thursday",
+    "Time": "10:30 - Noon",
+    "Tutor": "Shawn",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "CHEM 111",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "CHEM 231 / 332",
+    "Day": "Monday",
+    "Time": "1 - 2:30",
+    "Tutor": "Christopher",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "CHEM 231 / 332",
+    "Day": "Wednesday",
+    "Time": "5 - 6:30",
+    "Tutor": "Christopher",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 108",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "MATH 130",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "MATH 220",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "MATH 223 / 224 / 225",
+    "Day": "Monday",
+    "Time": "5:30 - 7",
+    "Tutor": "Andrea",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 223 / 224 / 225",
+    "Day": "Thursday",
+    "Time": "3 - 4:30",
+    "Tutor": "Andrea",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 226 / 227",
+    "Day": "Monday",
+    "Time": "5:30 - 7",
+    "Tutor": "Andrea",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 226 / 227",
+    "Day": "Thursday",
+    "Time": "3 - 4:30",
+    "Tutor": "Andrea",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 323",
+    "Day": "Tuesday",
+    "Time": "2:30 - 4",
+    "Tutor": "Randy",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "MATH 323",
+    "Day": "Wednesday",
+    "Time": "12:30 - 2",
+    "Tutor": "Randy",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "PHYS 121 / 131 / 132",
+    "Day": "Tuesday",
+    "Time": "2:30 - 4",
+    "Tutor": "Randy",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "PHYS 121 / 131 / 132",
+    "Day": "Wednesday",
+    "Time": "12:30 - 2",
+    "Tutor": "Randy",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "PSYC 111 / 243 / 344",
+    "Day": "Monday",
+    "Time": "3 - 4:30",
+    "Tutor": "Elias",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "PSYC 111 / 243 / 344",
+    "Day": "Thursday",
+    "Time": "6:30 - 8",
+    "Tutor": "\"Chloe Elias\"",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "GENERAL WRITING",
+    "Day": "Sunday",
+    "Time": "5 - 6:30",
+    "Tutor": "Zion",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "GENERAL WRITING",
+    "Day": "Monday",
+    "Time": "12 - 1:30",
+    "Tutor": "Jasper",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "GENERAL WRITING",
+    "Day": "Tuesday",
+    "Time": "4:30 - 6",
+    "Tutor": "Zion",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "GENERAL WRITING",
+    "Day": "Wednesday",
+    "Time": "5:30 - 7",
+    "Tutor": "Jasper",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "GENERAL WRITING",
+    "Day": "Thursday",
+    "Time": "6 - 7:30",
+    "Tutor": "Jasper",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "BIO Misc*",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "Shawn",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "HDEV Misc*",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "Jasper",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "Intro French",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "Randy",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "PHYS Misc*",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "Randy",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "PSYC Misc*",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "\"Chloe Elias\"",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "Spanish",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "\"Shawn Gaylenis\"",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "Watson - BME",
+    "Day": "Request an appointment",
+    "Time": "",
+    "Tutor": "Christopher",
+    "Location": "On Demand"
+  },
+  {
+    "Subject": "Watson - CS",
+    "Day": "Tuesday",
+    "Time": "Noon - 1",
+    "Tutor": "Kyle",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "Watson - CS",
+    "Day": "Wednesday",
+    "Time": "Noon - 1",
+    "Tutor": "Kyle",
+    "Location": "SSS / EOP Tutorial Center"
+  },
+  {
+    "Subject": "Watson - CS",
+    "Day": "Thursday",
+    "Time": "Noon - 1",
+    "Tutor": "Kyle",
+    "Location": "SSS / EOP Tutorial Center"
+  }
+]
