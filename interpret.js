@@ -1,7 +1,9 @@
 const getData = require("./getData.js");
 const schedule = getData("tutor schedule.json");
+const fs = require('fs');
 
-var days = {
+cosnt interpret = function(){
+  var days = {
   Monday: [],
   Tuesday: [],
   Wednesday: [],
@@ -16,7 +18,17 @@ for (row of schedule) {
   }
 }
 
-console.log(days);
+var data = JSON.stringify(data);
+
+fs.writeFile('days.json', data, (err) =>{
+  if(err) throw err;
+  console.log("The data was successfully written to the file");
+})
+}
+
+module.exports = interpret;
+
+
 /** Days
  * { Monday: {
  *      Tutors: {},
