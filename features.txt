@@ -1,0 +1,14 @@
+(Done.)1. Turn a csv file into json
+2. Turn the json file into multiple json files
+    ~each json file contains the data formated in a different way
+    ~for example the tutor json file has information about the tutors as single objects
+    ~the subject json file will have information about the subject as a single objects
+    ~the Day json file contains information about what is happenning on a certain day stored as a single object
+3. When you add information to this structure you change all of these files
+    ~you can do each file one by one or you can use interpret the original file again
+4. Be able to delete information 
+5. Be able to update information
+6. Be able to say who is tutoring right now
+7. Be able to say who is tutoring at a certain date with aliases like today, tomorrow, next week and of course the actual date
+8. Set up instructions
+9. Be able to constaly run at any time
