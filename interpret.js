@@ -2,7 +2,7 @@ const getData = require("./getData.js");
 const schedule = getData("tutor schedule.json");
 const fs = require('fs');
 
-cosnt interpret = function(){
+const interpret = function(){
   var days = {
   Monday: [],
   Tuesday: [],
